@@ -1,0 +1,4 @@
+corps,0,0,0,
+salopette,1,0,0,
+tęte,3,0,0,
+chapeau,4,0,0

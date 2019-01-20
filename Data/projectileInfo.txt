@@ -1,0 +1,3 @@
+type||damage||effect||sound||animation frames
+bullet,1,
+missile,9
